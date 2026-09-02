@@ -8,8 +8,11 @@ Tertiary hospitals often face significant pressure from the continuous influx of
 Therefore, this was project was carried out in order to investigate hospital performance and provide actionable insights and recommendations especially in these areas;
 
 •	Clinical performance (patient volume, average length of stay, and departmental workload)
+
 •	Diagnosis and procedure utilization (high-volume diagnoses and procedures and their clinical alignment)
+
 •	Service utilization and demand trends (encounter volumes and patient activity across hospital departments)
+
 •	Financial and payer performance (charges, payments, payer distribution, and payment patterns)
 
 Using encounter-level electronic health record (EHR) data from a tertiary hospital, the project evaluates how patient demand, clinical activity, service utilization, and financial performance vary across departments, diagnoses, procedures, and payer types. The analysis moves beyond descriptive reporting to identify operational pressure points, high-volume clinical conditions, utilization patterns, and areas of financial exposure.
