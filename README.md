@@ -6,6 +6,7 @@ Executive Overview
 
 Tertiary hospitals often face significant pressure from the continuous influx of patients referred from primary and secondary healthcare facilities. The resulting high patient volume and admission rates can make it challenging to maintain accurate oversight of hospital performance and financial records.
 Therefore, this was project was carried out in order to investigate hospital performance and provide actionable insights and recommendations especially in these areas;
+
 •	Clinical performance (patient volume, average length of stay, and departmental workload)
 •	Diagnosis and procedure utilization (high-volume diagnoses and procedures and their clinical alignment)
 •	Service utilization and demand trends (encounter volumes and patient activity across hospital departments)
