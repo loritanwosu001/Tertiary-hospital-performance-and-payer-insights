@@ -18,6 +18,7 @@ Data Structure & Initial Checks
 The analysis uses encounter-level electronic health record (EHR) data generated through Synthea, an open-source synthetic patient data generator. Although the dataset is synthetic, it is used as a representation of real-world hospital data, with consistent clinical and operational assumptions applied to reflect realistic hospital workflows and performance.
 
 Project analysis period: 25/05/2026 – 10/06/2026
+
 Encounter history covered: 2000–2025 
 
 Tables Used in Analysis
