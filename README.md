@@ -50,12 +50,15 @@ Revenue generation varied across departments and service areas, with high-volume
 Recommendations
 
 Hospital Operations
+
 Allocate additional resources to high-volume departments to improve patient flow and reduce operational bottlenecks.
 
 Clinical Insights	
+
 Strengthen chronic disease prevention and management programmes to improve patient outcomes and reduce prolonged hospital stays.
 
 Financial Performance
+
 Enhance insurance utilization and revenue cycle management to improve financial sustainability and maximize revenue collection.
 
 
